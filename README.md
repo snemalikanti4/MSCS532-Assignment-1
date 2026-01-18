@@ -1,11 +1,11 @@
 # MSCS532 Assignment 1 – Insertion Sort (Decreasing Order)
-📘 Overview
+# Overview
 
 This repository contains a Python implementation of the Insertion Sort algorithm, adapted to sort an array in monotonically decreasing order. The algorithm is based on Chapter 2 of Introduction to Algorithms (CLRS) and demonstrates a clear understanding of sorting logic, control structures, and in-place array manipulation.
 
 The project also showcases proper use of Git version control through multiple commits that document the development process.
 
-🎯 Assignment Objectives
+# Assignment Objectives
 
 Implement the Insertion Sort algorithm in Python
 
@@ -15,13 +15,13 @@ Practice version control with at least three commits
 
 Publish the project in a public GitHub repository
 
-🛠️ Technologies Used
+# Technologies Used
 
 Python 3
 
 Git & GitHub
 
-📂 Project Structure
+Project Structure
 MSCS532_Assignment1/
 │
 ├── insertion_sort_decreasing.py
@@ -61,12 +61,4 @@ Run the program:
 
 python insertion_sort_decreasing.py
 
-🧾 Version Control
 
-This repository includes at least three commits to demonstrate incremental development:
-
-Project setup and initial structure
-
-Core insertion sort algorithm implementation
-
-Added detailed comments, documentation, and test output
